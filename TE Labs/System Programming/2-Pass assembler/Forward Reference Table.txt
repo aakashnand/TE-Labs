@@ -1,0 +1,10 @@
+		 **********Forward Reference Table***********
+
+Symbol/Literal		Address of Defination		Address Of Usage
+
+NEXT						2000			2005
+LOOP						2004			2007
+=7						2009			2002
+=5						2010			2003
+M						2011			2000,2006
+N						2012			2001,2004

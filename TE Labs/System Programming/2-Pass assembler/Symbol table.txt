@@ -1,0 +1,6 @@
+			**********Symbol Table***********
+Variable Name		Length		Value		Address
+NEXT				-			-		2000
+LOOP				-			-		2004
+M				10			-		2011
+N				-			5		2012

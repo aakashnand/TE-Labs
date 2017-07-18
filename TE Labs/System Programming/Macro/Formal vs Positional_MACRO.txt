@@ -1,0 +1,5 @@
+	 *****Formal VS Postional Parameter Table*****
+
+Macro Name		Formal Parameter		Positional Parameter
+
+MYMACRO		&MEM_VAL,&INCR_VAL,&REG	  #1,#2,#3

@@ -1,0 +1,16 @@
+STORE L
+NEXT:MOVER A,M
+     MOVEM C,N
+     ADD A,='7'
+     MULT C,='5'
+LOOP:MULT A,N
+     BC LT NEXT
+     SUB A,M
+     BC LE LOOP
+     LTORG
+     ='7'
+     ='5'
+     STOP
+M DS 10
+N DC 5
+END

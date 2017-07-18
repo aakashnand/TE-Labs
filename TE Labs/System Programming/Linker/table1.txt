@@ -1,0 +1,8 @@
+********************SYMBOL TABLE***************
+DataType			Variable		Memory Address
+
+INTEGER(2 Bytes)	x,y,z			 2000 2002 
+--------------------------------------------------------
+FLOAT(4 Bytes)		area,pi			 3000 3004
+--------------------------------------------------------
+CHARACTER(1 Byte)	square,null		 4000 4001

@@ -1,0 +1,6 @@
+		 **********Literal Table***********
+
+Literal No			Literal			Address Of Defination
+
+1			     ='7'				2009
+2			     ='5'				2010

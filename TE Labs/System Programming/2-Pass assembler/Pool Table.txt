@@ -1,0 +1,6 @@
+		 **********Pool Table***********
+
+Pool No						Literal Table Index
+
+1									#1
+2									#2

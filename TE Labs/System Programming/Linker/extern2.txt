@@ -1,0 +1,4 @@
+***************EXTERNAL SYMBOL TABLE***************
+DataType			Variable		Memory Address
+
+INTEGER(2 Bytes)	x,y,z;			 2000 2002 2004 

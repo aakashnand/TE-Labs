@@ -1,0 +1,15 @@
+		 **********Mnemonic Opcode Table***********
+
+Mnemonic								Opcode
+
+MOVER									01
+MOVEM									02
+ADD									03
+MULT									04
+BC									05
+SUB									06
+LTORG									07
+STOP									08
+DS									09
+DC									010
+END									011
